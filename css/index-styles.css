@@ -1,0 +1,28 @@
+body {
+    background: #eee;
+    font-family: "Garamond", serif;
+    box-sizing: border-box;
+}
+
+.main-container {
+    background: #fff;
+    margin: 16px auto;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.list {
+    font-family: Verdana, sans-serif;
+    width: 200px;
+    margin: 10px auto;
+    text-decoration: none;
+}
+
+.list li {
+    margin: 5px 0;
+}
