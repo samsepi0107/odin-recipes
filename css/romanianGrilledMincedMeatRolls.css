@@ -2,6 +2,8 @@ body {
     background: #eee;
     font-family: "Garamond", serif;
     box-sizing: border-box;
+    padding-top: 20px;
+    padding-bottom: 80px;
 }
 
 .header {
@@ -11,6 +13,7 @@ body {
     border-radius: 10px;
     background: #fff;
     margin-bottom: 70px;
+    padding: 10px;
 }
 
 .header h1 {
@@ -51,7 +54,7 @@ body {
     border-radius: 8px;
     background: #fff;
     display: inline-block;
-    margin-left: 160px;
+    margin-left: 400px;
 }
 
 .ingredients h3 {
